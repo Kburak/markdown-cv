@@ -5,16 +5,16 @@ title: Burak Engin's CV
 # Burak Engin
 Product & Brand Manager.
 
-kburakengin@icloud.com
-https://www.linkedin.com/in/kburakengin/
-https://twitter.com/kburakengin
-https://github.com/Kburak
+- kburakengin@icloud.com
+- https://www.linkedin.com/in/kburakengin/
+- https://twitter.com/kburakengin
+- https://github.com/Kburak
 
 ## About Me
 A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
 
--Loves nature
--Can speak english
+- Loves nature
+- Can speak english
 
 ## Currently
 
@@ -37,7 +37,6 @@ __Mugla Sitki Kocman University, Public Administration.__
 
 
 ## Occupation
-`2018-Present`
 
 `2018-Present`
 __Product & Brand Manager__, Studio Fashion Agency
