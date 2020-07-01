@@ -5,13 +5,16 @@ title: Burak Engin's CV
 # Burak Engin
 Product & Brand Manager.
 
+## Contact
+
 - kburakengin@icloud.com
 - [linkedin.com/in/kburakengin](https://linkedin.com/in/kburakengin)
 - [twitter.com/kburakengin](https://twitter.com/kburakengin)
 - [github.com/KBurak](https://github.com/KBurak)
 
 ## About Me
-A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
+
+- A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
 
 - Loves nature
 - Can speak english
@@ -37,8 +40,7 @@ __Mugla Sitki Kocman University, Public Administration.__
 __Product & Brand Manager__, Studio Fashion Agency
 
 - Developed and implemented marketing and sales plans and deﬁned strategies for the next calendar year
-- Worked closely with other agencies during development and launch of brand website to assist in its graphic design,
-  UI/UX, translation from other languages, delivery without going over allocated budget as well as its shipment on time
+- Worked closely with other agencies during development and launch of brand website to assist in its graphic design, UI/UX, translation from other languages, delivery without going over allocated budget as well as its shipment on time
 - Managed deliveries and approvals for all garments in strict coordination with production team
 - Observed and tracked photo samples to ensure accuracy of samples is aligned with those on brand website and social media photo-shoots
 - Managed new product and content releases
@@ -58,8 +60,7 @@ __Merchandiser__, Studio Fashion Agency
 
 `2020-Present`
 __Python Software Development Training - Ari Bilgi Information Technology Academy__
-- Hands-on training working with the following technologies: Python, Database (SQLite & MySQL),
-  Web App Development using Django framework, Data Manipulation (numPy & pandas), Machine Learning
+- Hands-on training working with the following technologies: Python, Database (SQLite & MySQL), Web App Development using Django framework, Data Manipulation (numPy & pandas), Machine Learning
 
 `2018`
 __E-Commerce and the Place of E-Commerce in the World__
