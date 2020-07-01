@@ -6,9 +6,9 @@ title: Burak Engin's CV
 Product & Brand Manager.
 
 - kburakengin@icloud.com
-- https://www.linkedin.com/in/kburakengin/
-- https://twitter.com/kburakengin
-- https://github.com/Kburak
+- [linkedin.com/in/kburakengin](https://linkedin.com/in/kburakengin)
+- [twitter.com/kburakengin](https://twitter.com/kburakengin)
+- [github.com/KBurak](https://github.com/KBurak)
 
 ## About Me
 A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
