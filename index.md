@@ -63,8 +63,8 @@ __Merchandiser__, Studio Fashion Agency
 
 `2020-Present`
 __Python Software Development Training - Ari Bilgi Information Technology Academy__
--Hands-on training working with the following technologies: Python, Database (SQLite & MySQL),
-Web App Development using Django framework, Data Manipulation (numPy & pandas), Machine Learning
+- Hands-on training working with the following technologies: Python, Database (SQLite & MySQL),
+  Web App Development using Django framework, Data Manipulation (numPy & pandas), Machine Learning
 
 `2018`
 __E-Commerce and the Place of E-Commerce in the World__
