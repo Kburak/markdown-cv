@@ -20,14 +20,9 @@ A hard-working and self-motivated individual, looking out for opportunities in J
 
 Working as a Product & Brand Manager, trying to be a Software Developer
 
-### Skills
+## Skills
 
 Python, Django, Flask, Git, API Design Knowledge, MySQL, PostgreSQL, HTML, CSS, Bootstrap
-
-
-### Research interests
-
-Software, Space, History
 
 
 ## Education
@@ -68,3 +63,7 @@ __Python Software Development Training - Ari Bilgi Information Technology Academ
 
 `2018`
 __E-Commerce and the Place of E-Commerce in the World__
+
+## Hobbies
+
+Software, Space, History, Basketball, Technology
