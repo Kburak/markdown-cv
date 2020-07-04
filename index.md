@@ -14,7 +14,7 @@ Product & Brand Manager.
 
 ## About Me
 
-- A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
+A hard-working and self-motivated individual, looking out for opportunities in Jr. Backend Developer position to find ways to help my teammates work more efficiently. I seek learning opportunities in every task and interaction, no matter how big or small.
 
 - Loves nature
 - Can speak english
@@ -54,7 +54,7 @@ __Merchandiser__, Studio Fashion Agency
 - Provided top-notch customer support to already existing customer questions as well as addressed other likely customer needs to increase customer satisfaction and loyalty
 
 ## Personal Projects
-- My projects can be found on my GitHub page. (https://github.com/Kburak?tab=repositories)
+- My projects can be found on my GitHub page. [github.com/KBurak](https://github.com/KBurak)
 
 ## Certificates
 
