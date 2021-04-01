@@ -21,11 +21,11 @@ A hard-working and self-motivated individual, looking out for opportunities in J
 
 ## Currently
 
-Working as a Product & Brand Manager, trying to be a Software Developer
+Working as a SAP Commerce & Java Developer.
 
 ## Skills
 
-Python, Django, Flask, Git, API Design Knowledge, MySQL, PostgreSQL, HTML, CSS, Bootstrap
+SAP Commerce ,Java, Restful Web Services, Python, Django, Flask, Git, API Design Knowledge, MySQL, MSSQL, PostgreSQL, HTML, CSS, Bootstrap
 
 
 ## Education
@@ -36,7 +36,13 @@ __Mugla Sitki Kocman University, Public Administration.__
 
 ## Occupation
 
-`2018-Present`
+`2020-2020`
+__Consultant, ECM & Software Applications__, Studio Fashion Agency
+
+- Currently working as a Sap Commerce & Java Developer on Avansas UK Globalization Project.
+
+
+`2018-2020`
 __Product & Brand Manager__, Studio Fashion Agency
 
 - Developed and implemented marketing and sales plans and deﬁned strategies for the next calendar year
