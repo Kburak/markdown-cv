@@ -59,8 +59,9 @@ __Merchandiser__, Studio Fashion Agency
 - Served as business representative at expositions and trade fairs in Germany to acquire new customers and manufacturers
 - Provided top-notch customer support to already existing customer questions as well as addressed other likely customer needs to increase customer satisfaction and loyalty
 
-## Personal Projects
-- My projects can be found on my GitHub page. [github.com/KBurak](https://github.com/KBurak)
+##  Projects
+- Avansas UK Globalization Project (2020 - , Office Supplies & Appliances, E-Commerce, SAP Commerce & Java Developer)
+- My Personel projects can be found on my GitHub page. [github.com/KBurak](https://github.com/KBurak)
 
 ## Certificates
 
