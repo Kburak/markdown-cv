@@ -3,7 +3,7 @@ layout: cv
 title: Burak Engin's CV
 ---
 # Burak Engin
-Product & Brand Manager.
+Consultant (ECM & Software Applıcatıons), Sap Commerce & Java Developer
 
 ## Contact
 
